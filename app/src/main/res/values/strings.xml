@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBach</string>
+    <string name="hello"><b>Xin chào </b>tao là <i>Siêu nhân</i></string>
+</resources>
