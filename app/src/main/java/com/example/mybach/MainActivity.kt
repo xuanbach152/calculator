@@ -82,7 +82,7 @@ class MainActivity : AppCompatActivity() {
             val formattedResult = if (result % 1 == 0.0) {
                 result.toInt().toString()
             } else {
-                String.format("%.1f", result)
+                String.format("%.2f", result)
             }
 
             display.text = formattedResult
